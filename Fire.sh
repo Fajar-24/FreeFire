@@ -1,4 +1,4 @@
-GNU nano 4.6               x.sh
+
 #Jangan Di Recode Ya Todd!!
 #!/usr/bin/sh
 # coding=utf-8
