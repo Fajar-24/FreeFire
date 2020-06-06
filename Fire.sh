@@ -18,7 +18,8 @@ enda='\033[0m'
 blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
-figlet "HACK FF"|lolcat
+cowsay -f eyes "WARNING" | lolcat
+figlet -f slant "FAJAR CYBER" | lolcat
 echo "#######################################"|lolcat
 echo  AUTHOR  : FAJAR CYBER|lolcat
 echo  WHATSAP : 08817805411|lolcat
@@ -26,16 +27,14 @@ echo  GITHUB  : GITHUB.COM/Fajar-24|lolcat
 echo "#######################################"|lolcat
 echo   "SELAMAT DATANG SEMOGA HARI MU MENYENANGKAN"|lolcat
 echo
-read -p "# MASUKAN ID TARGET FREE FIRE : " ID:
+read -p "# MASUKAN ID TARGET FREE FIRE : " read -p
 echo "*TUNGGU SEBENTAR SEDANG MEMBUKA KEAMANAN"|lolcat
 echo "[✓]TUNGGU SEBENTAR..."|lolcat
 echo "[✓]MEMBUKA KEAMANAN..."|lolcat
 echo "[✓]MEMBUKA PASSWORD..."|lolcat
 echo "[✓]BERHASIL ✓ "|lolcat
-echo "----------------------------"|lolcat
-echo " [✓] PASSWORD :********"|lolcat
-figlet "EROR"|lolcat
-echo "KARENA ANDA BANYAK DOSA GOBLOK ASU"|lolcat
-echo "WHAT THE FUCK"|lolcat
-figlet "anjing"|lolcat
-figlet "FUCK"|lolcat
+echo "############################################"|lolcat
+echo "  *MENCOBA [✓] PASSWORD : ANJINK"|lolcat
+echo "  *MENCOBA [✓] PASSWORD : Bangsat"|lolcat
+echo "  *MENCOBA [✓] PASSWORD : GARENA "|lolcat
+echo " *[✓]SELESAI...*
